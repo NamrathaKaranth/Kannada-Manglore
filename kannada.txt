@@ -1,0 +1,468 @@
+Go. ಹೋಗಿ.
+Hi. ನಮಸ್ತೆ.
+Run. ಓಡು.
+Who. Who.
+Fire. ಬೆಂಕಿ.
+Fire. ಬೆಂಕಿ.
+Fire. ಬೆಂಕಿ.
+Help. ಸಹಾಯ.
+Help. ಸಹಾಯ.
+Help. ಸಹಾಯ.
+Jump. ನೆಗೆಯುವುದನ್ನು.
+Stop. ನಿಲ್ಲಿಸು.
+Stop. ನಿಲ್ಲಿಸು.
+Stop. ನಿಲ್ಲಿಸು.
+Wait. ನಿರೀಕ್ಷಿಸಿ.
+Wait. ನಿರೀಕ್ಷಿಸಿ.
+Go on. ಮುಂದೆ ಸಾಗು.
+Go on. ಮುಂದೆ ಸಾಗು.
+Hello. ಹಲೋ.
+I ran. ನಾನು ಓಡಿದೆ.
+I ran. ನಾನು ಓಡಿದೆ.
+I try. ನಾನು ಪ್ರಯತ್ನಿಸುವೆ.
+I won. ನಾನು ಗೆದ್ದೆ.
+Oh no. ಓಹ್ ಇಲ್ಲ.
+Relax. ವಿಶ್ರಾಂತಿ.
+Smile. ಸ್ಮೈಲ್.
+Attack. ದಾಳಿ.
+Attack. ದಾಳಿ.
+Get up. ಎದ್ದೇಳು.
+Go now. ಈಗ ಹೋಗು.
+Got it. ಗೊತ್ತಾಯಿತು.
+He ran. ಎಚ್ ಇದ್ದಕ್ಕಿದ್ದಂತೆ.
+Hop in. ಹಾಪ್ ಇನ್.
+Hug me. ನನ್ನನ್ನು ತಬ್ಬಿಕೋ.
+I fell. ನಾನು ಬಿದ್ದೆ.
+I know. ನನಗೆ ಗೊತ್ತು.
+I left. ನಾನು ಹೊರಟೆ.
+I lied. ನಾನು ಸುಳ್ಳು ಹೇಳಿದೆ.
+I lost. ನಾನು ಕಳೆದುಕೊಂಡೆ.
+I quit. ನಾನು ಹೊರ ಹೋಗುತ್ತೇನೆ.
+I quit. ನಾನು ಹೊರ ಹೋಗುತ್ತೇನೆ.
+I work. ನಾನು ಕೆಲಸದಲ್ಲಿರುವೆ.
+I'm 19. ನನಗೆ 19 ವರ್ಷ.
+I'm up. ನಾನು ಎದ್ದಿದ್ದೇನೆ.
+Listen. ಕೇಳು.
+Listen. ಕೇಳು.
+Listen. ಕೇಳು.
+No way. ಆಗುವುದೇ ಇಲ್ಲ.
+Really. ನಿಜವಾಗಿಯೂ.
+Really. ನಿಜವಾಗಿಯೂ.
+Thanks. ಧನ್ಯವಾದಗಳು.
+Thanks. ಧನ್ಯವಾದಗಳು.
+Try it. ಪ್ರಯತ್ನಪಡು.
+We try. ನಾವು ಪ್ರಯತ್ನಿಸುತ್ತೇವೆ.
+We won. ನಾವು ಗೆದ್ದಿದ್ದೇವೆ.
+Why me. ನಾನು ಯಾಕೆ.
+Ask Tom. ಟಾಮ್ ಕೇಳಿ.
+Awesome. ಅದ್ಭುತ.
+Be calm. ಸಮಾಧಾನದಿಂದಿರು.
+Be cool. ಶಾಂತವಾಗಿರು.
+Be fair. ನ್ಯಾಯೋಚಿತವಾಗಿರಿ.
+Be kind. ದಯೆಯಿಂದಿರಿ.
+Be nice. ಚನ್ನಾಗಿ ವರ್ತನೆ ಮಾಡು.
+Beat it. ಅದನ್ನು ಸೋಲಿಸಿ.
+Call me. ಕರೆ ಮಾಡು.
+Call me. ಕರೆ ಮಾಡು.
+Call me. ಕರೆ ಮಾಡು.
+Call us. ನಮ್ಮನ್ನು ಕರೆ ಮಾಡಿ.
+Come in. ಒಳಗೆ ಬನ್ನಿ.
+Come in. ಒಳಗೆ ಬನ್ನಿ.
+Come in. ಒಳಗೆ ಬನ್ನಿ.
+Come on. ಬನ್ನಿ.
+Come on. ಬನ್ನಿ.
+Come on. ಬನ್ನಿ.
+Drop it. ಬೀಳಿಸು.
+Get Tom. ಟಾಮ್ ಪಡೆಯಿರಿ.
+Get out. ಹೊರಹೋಗು.
+Go away. ದೂರ ಹೋಗು.
+Go slow. ನಿಧಾನವಾಗಿ ಹೋಗಿ.
+Goodbye. ವಿದಾಯ.
+Goodbye. ವಿದಾಯ.
+Goodbye. ವಿದಾಯ.
+Hang on. ಹ್ಯಾಂಗ್ ಆನ್.
+Hang on. ಹ್ಯಾಂಗ್ ಆನ್.
+Hang on. ಹ್ಯಾಂಗ್ ಆನ್.
+Hang on. ಹ್ಯಾಂಗ್ ಆನ್.
+He came. ಅವನು ಬಂದ.
+He quit. ಅವರು ತ್ಯಜಿಸಿದರು.
+Help me. ನನಗೆ ಸಹಾಯ ಮಾಡಿ.
+Help me. ನನಗೆ ಸಹಾಯ ಮಾಡಿ.
+Help me. ನನಗೆ ಸಹಾಯ ಮಾಡಿ.
+Help me. ನನಗೆ ಸಹಾಯ ಮಾಡಿ.
+Help us. ನಮಗೆ ಸಹಾಯ ಮಾಡಿ.
+Hit Tom. ಟಾಮ್ ಹಿಟ್.
+Hold it. ಹಿಡಿದುಕೊ.
+Hold on. ಸ್ವಲ್ಪ ತಡಿ.
+Hold on. ಸ್ವಲ್ಪ ತಡಿ.
+Hold on. ಸ್ವಲ್ಪ ತಡಿ.
+Hug Tom. ಹಗ್ ಟಾಮ್.
+I agree. ನಾನು ಸಮ್ಮತಿಸುವೆ.
+I agree. ನಾನು ಸಮ್ಮತಿಸುವೆ.
+I bowed. ನಾನು ನಮಸ್ಕರಿಸಿದೆ.
+I moved. ನಾನು ಸ್ಥಳಾಂತರಗೊಂಡೆ.
+I moved. ನಾನು ಸ್ಥಳಾಂತರಗೊಂಡೆ.
+I moved. ನಾನು ಸ್ಥಳಾಂತರಗೊಂಡೆ.
+I moved. ನಾನು ಸ್ಥಳಾಂತರಗೊಂಡೆ.
+I slept. ನಾನು ಮಲಗಿದೆ.
+I tried. ನಾನು ಪ್ರಯತ್ನಿಸಿದೆ.
+I'll go. ನಾನು ಹೋಗುತ್ತೇನೆ.
+I'm Tom. ನಾನು ಟಾಮ್.
+I'm fat. ನಾನು ದಪ್ಪಗಿದ್ದೇನೆ.
+I'm fat. ನಾನು ದಪ್ಪಗಿದ್ದೇನೆ.
+I'm fit. ನಾನು ಫಿಟ್ ಆಗಿದ್ದೇನೆ.
+I'm hit. ನನಗೆ ಹಿಟ್ ಆಗಿದೆ.
+I'm old. ನನಗೆ ವಯಸ್ಸಾಗಿದೆ.
+I'm shy. ನನಗೆ ನಾಚಿಕೆ.
+I'm wet. ನಾನು ಒದ್ದೆ ಮನುಷ್ಯ.
+It's OK. ಪರವಾಗಿಲ್ಲ.
+It's me. ಇದು ನಾನು.
+It's me. ಇದು ನಾನು.
+Join us. ನಮ್ಮ ಜೊತೆಗೂಡು.
+Join us. ನಮ್ಮ ಜೊತೆಗೂಡು.
+Keep it. ಅದನ್ನು ಇರಿಸಿ.
+Me, too. ನಾನೂ ಕೂಡ.
+Open up. ತೆರೆಯಿರಿ.
+Perfect. ಪರಿಪೂರ್ಣ.
+See you. ನಿಮ್ಮನ್ನು ನೋಡಿ.
+Show me. ನನಗೆ ತೋರಿಸು.
+Show me. ನನಗೆ ತೋರಿಸು.
+Show me. ನನಗೆ ತೋರಿಸು.
+Shut up. ಬಾಯಿ ಮುಚ್ಚು.
+Shut up. ಬಾಯಿ ಮುಚ್ಚು.
+Skip it. ಅದನ್ನು ಬಿಟ್ಟುಬಿಡು.
+So long. ತುಂಬಾ ಸಮಯದಿಂದ.
+So long. ತುಂಬಾ ಸಮಯದಿಂದ.
+Stop it. ನಿಲ್ಲಿಸು.
+Stop it. ನಿಲ್ಲಿಸು.
+Take it. ತೆಗೆದುಕೋ.
+Tell me. ನನಗೆ ಹೇಳು.
+Tom ate. ಟಾಮ್ ತಿನ್ನುತ್ತಿದ್ದರು.
+Tom ran. ಟಾಮ್ ರಾನ್.
+Tom won. ಟಾಮ್ ಗೆದ್ದರು.
+Wait up. ಕಾಯಿ.
+Wake up. ಎದ್ದೇಳಿ.
+Wake up. ಎದ್ದೇಳಿ.
+Wake up. ಎದ್ದೇಳಿ.
+Wake up. ಎದ್ದೇಳಿ.
+Wash up. ತೊಳೆದು ಹಾಕು.
+We care. ನಾವು ಕಾಳಜಿ ವಹಿಸುತ್ತೇವೆ.
+We know. ನಮಗೆ ತಿಳಿದಿದೆ.
+We lost. ನಾವು ಕಳೆದು ಕೊಂಡೆವು.
+Welcome. ಸ್ವಾಗತ.
+Welcome. ಸ್ವಾಗತ.
+Who ate. ಯಾರು ತಿನ್ನುತ್ತಿದ್ದರು.
+Who ran. ಯಾರು ಓಡಿದರು.
+Who ran. ಯಾರು ಓಡಿದರು.
+Who won. ಯಾರು ಗೆದ್ದರು.
+Who won. ಯಾರು ಗೆದ್ದರು.
+Why not. ಯಾಕಿಲ್ಲ.
+You run. ನೀನು ಓಡು.
+You won. ನೀನು ಗೆದ್ದೆ.
+Am I fat. ನಾನು ದಪ್ಪವಾಗಿದ್ದೇನೆ.
+Ask them. ಅವರನ್ನು ಕೇಳು.
+Ask them. ಅವರನ್ನು ಕೇಳು.
+Back off. ಹಿಂದಕ್ಕೆ.
+Back off. ಹಿಂದಕ್ಕೆ.
+Be a man. ಮನುಷ್ಯನಾಗಿರಿ.
+Be brave. ಧೈರ್ಯಶಾಲಿಯಾಗಿರಿ.
+Be brief. ಸಂಕ್ಷಿಪ್ತವಾಗಿರಿ.
+Be brief. ಸಂಕ್ಷಿಪ್ತವಾಗಿರಿ.
+Be brief. ಸಂಕ್ಷಿಪ್ತವಾಗಿರಿ.
+Be quiet. ಸುಮ್ಮನಿರು.
+Be still. ಅಲ್ಲಾಡದಿರು.
+Call Tom. ಟಾಮ್ಗೆ ಕರೆ ಮಾಡಿ.
+Call Tom. ಟಾಮ್ಗೆ ಕರೆ ಮಾಡಿ.
+Call Tom. ಟಾಮ್ಗೆ ಕರೆ ಮಾಡಿ.
+Cheer up. ಹುರಿದುಂಬಿಸಿ.
+Cheer up. ಹುರಿದುಂಬಿಸಿ.
+Cool off. ಸಮಾಧಾನ ಮಾಡಿಕೋ.
+Cuff him. ಅವನನ್ನು ಕಫ್ ಮಾಡಿ.
+Don't go. ಹೋಗಬೇಡಿ.
+Drive on. ಚಾಲನೆ ಮಾಡಿ.
+Find Tom. ಟಾಮ್ ಹುಡುಕಿ.
+Find Tom. ಟಾಮ್ ಹುಡುಕಿ.
+Find Tom. ಟಾಮ್ ಹುಡುಕಿ.
+Find Tom. ಟಾಮ್ ಹುಡುಕಿ.
+Find Tom. ಟಾಮ್ ಹುಡುಕಿ.
+Find Tom. ಟಾಮ್ ಹುಡುಕಿ.
+Fix this. ಇದನ್ನು ಸರಿಪಡಿಸಿ.
+Get away. ದೂರವಿರಿ.
+Get away. ದೂರವಿರಿ.
+Get away. ದೂರವಿರಿ.
+Get away. ದೂರವಿರಿ.
+Get down. ಕೆಳಗೆ ಇಳಿ.
+Get down. ಕೆಳಗೆ ಇಳಿ.
+Get down. ಕೆಳಗೆ ಇಳಿ.
+Get lost. ತೊಲಗಿ ಹೋಗು.
+Get lost. ತೊಲಗಿ ಹೋಗು.
+Get lost. ತೊಲಗಿ ಹೋಗು.
+Get lost. ತೊಲಗಿ ಹೋಗು.
+Get lost. ತೊಲಗಿ ಹೋಗು.
+Get lost. ತೊಲಗಿ ಹೋಗು.
+Get real. ನೈಜತೆಯನ್ನು ಪಡೆಯಿರಿ.
+Get real. ನೈಜತೆಯನ್ನು ಪಡೆಯಿರಿ.
+Get real. ನೈಜತೆಯನ್ನು ಪಡೆಯಿರಿ.
+Go ahead. ಮುಂದುವರೆಯಿರಿ.
+Go ahead. ಮುಂದುವರೆಯಿರಿ.
+Go on in. ಒಳಗೆ ಹೋಗಿ.
+Go on in. ಒಳಗೆ ಹೋಗಿ.
+Go on in. ಒಳಗೆ ಹೋಗಿ.
+Go on in. ಒಳಗೆ ಹೋಗಿ.
+Go on in. ಒಳಗೆ ಹೋಗಿ.
+Good job. ಒಳ್ಳೆಯ ಕೆಲಸ.
+Grab Tom. ಟಾಮ್ ಅನ್ನು ಪಡೆದುಕೊಳ್ಳಿ.
+Grab him. ಅವನನ್ನು ಹಿಡಿಯಿರಿ.
+Have fun. ಆನಂದಿಸಿ.
+Have fun. ಆನಂದಿಸಿ.
+Have fun. ಆನಂದಿಸಿ.
+He spoke. ಅವನು ಮಾತನಾಡಿದ.
+He tries. ಅವನು ಪ್ರಯತ್ನಿಸುತ್ತಾನೆ.
+He tries. ಅವನು ಪ್ರಯತ್ನಿಸುತ್ತಾನೆ.
+Help Tom. ಟಾಮ್‌ಗೆ ಸಹಾಯ ಮಾಡಿ.
+Help him. ಅವನಿಗೆ ಸಹಾಯ ಮಾಡಿ.
+Hi, guys. ಸ್ನೇಹಿತರೆ.
+Hi, guys. ಸ್ನೇಹಿತರೆ.
+Hi, guys. ಸ್ನೇಹಿತರೆ.
+Hi, guys. ಸ್ನೇಹಿತರೆ.
+Hi, guys. ಸ್ನೇಹಿತರೆ.
+Hi, guys. ಸ್ನೇಹಿತರೆ.
+How cute. ಎಷ್ಟು ಮುದ್ದಾಗಿದೆ.
+How deep. ಎಷ್ಟು ಆಳ.
+How deep. ಎಷ್ಟು ಆಳ.
+Humor me. ನನಗೆ ಹಾಸ್ಯ.
+Humor me. ನನಗೆ ಹಾಸ್ಯ.
+Hurry up. ಯದ್ವಾತದ್ವಾ.
+Hurry up. ಯದ್ವಾತದ್ವಾ.
+I agreed. ನಾನು ಒಪ್ಪಿದ್ದೇನೆ.
+I agreed. ನಾನು ಒಪ್ಪಿದ್ದೇನೆ.
+I agreed. ನಾನು ಒಪ್ಪಿದ್ದೇನೆ.
+I am fat. ನಾನು ದಪ್ಪಗಿದ್ದೇನೆ.
+I am old. ನಾನು ವೃದ್ಧ.
+I ate it. ನಾನು ಅದನ್ನು ತಿನ್ನುತ್ತೇನೆ.
+I ate it. ನಾನು ಅದನ್ನು ತಿನ್ನುತ್ತೇನೆ.
+I can go. ನಾನು ಹೋಗಬಲ್ಲೆ.
+I did OK. ನಾನು ಸರಿ ಮಾಡಿದ್ದೇನೆ.
+I did it. ನಾನು ಮಾಡಿದೆ.
+I failed. ನಾನು ಸೋತಿದ್ದೇನೆ.
+I forgot. ನಾನು ಮರೆತೆ.
+I get by. ನಾನು ಪಡೆಯುತ್ತೇನೆ.
+I get it. ನಾನು ಅದನ್ನು ಪಡೆಯುತ್ತೇನೆ.
+I got it. ನಾನು ಅದನ್ನು ಪಡೆದುಕೊಂಡೆ.
+I phoned. ನಾನು ಫೋನ್ ಮಾಡಿದೆ.
+I refuse. ನಾನು ನಿರಾಕರಿಸುತ್ತೇನೆ.
+I resign. ನಾನು ರಾಜೀನಾಮೆ ನೀಡುತ್ತೇನೆ.
+I resign. ನಾನು ರಾಜೀನಾಮೆ ನೀಡುತ್ತೇನೆ.
+I saw it. ನಾನು ಅದನ್ನು ನೋಡಿದೆ.
+I smiled. ನಾನು ಮುಗುಳ್ನಕ್ಕು.
+I stayed. ನಾನು ಉಳಿದುಕೊಂಡೆ.
+I talked. ನಾನು ಮಾತನಾಡಿದೆ.
+I talked. ನಾನು ಮಾತನಾಡಿದೆ.
+I talked. ನಾನು ಮಾತನಾಡಿದೆ.
+I talked. ನಾನು ಮಾತನಾಡಿದೆ.
+I use it. ನಾನು ಅದನ್ನು ಬಳಸುತ್ತೇನೆ.
+I waited. ನಾನು ಕಾಯುತ್ತಿದ್ದೆ.
+I'll pay. ನಾನು ಪಾವತಿಸುತ್ತೇನೆ.
+I'm back. ನಾನು ಹಿಂತಿರುಗಿದ್ದೇನೆ.
+I'm back. ನಾನು ಹಿಂತಿರುಗಿದ್ದೇನೆ.
+I'm bald. ನಾನು ಬೋಳು.
+I'm bald. ನಾನು ಬೋಳು.
+I'm calm. ನಾನು ಶಾಂತವಾಗಿದ್ದೇನೆ.
+I'm cool. ನಾನು ಬಿಂದಾಸ್ ಮನುಷ್ಯ.
+I'm done. ನಾನು ಮುಗಿಸಿದ್ದೇನೆ.
+I'm easy. ನಾನು ಸುಲಭ.
+I'm fair. ನಾನು ನ್ಯಾಯೋಚಿತ.
+I'm fine. ನಾನು ಆರಾಮಾಗಿದ್ದೇನೆ.
+I'm free. ನಾನು ಸ್ವತಂತ್ರ.
+I'm free. ನಾನು ಸ್ವತಂತ್ರ.
+I'm full. ನಾನು ತುಂಬಿದ್ದೇನೆ.
+I'm full. ನಾನು ತುಂಬಿದ್ದೇನೆ.
+I'm full. ನಾನು ತುಂಬಿದ್ದೇನೆ.
+I'm here. ನಾನು ಇಲ್ಲಿ ಇದೀನಿ.
+I'm home. ನಾನು ಮನೆಯಲ್ಲಿ ಇದ್ದೀನಿ.
+I'm hurt. ನನಗೆ ನೋವಾಗಿದೆ.
+I'm late. ನಾನು ತಡವಾಗಿ ಬಂದಿದ್ದೇನೆ.
+I'm lazy. ನಾನು ಸೋಮಾರಿಯಾದ ಮನುಷ್ಯ.
+I'm lost. ನಾನು ಕಳೆದುಹೊಗಿದ್ದೇನೆ.
+I'm mean. ನಾನು ಅರ್ಥ.
+I'm next. ನಾನು ಮುಂದಿನವನು.
+I'm okay. ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ.
+I'm poor. ನಾನು ಬಡವ.
+I'm rich. ನಾನು ಸಿರಿವಂತ.
+I'm rich. ನಾನು ಸಿರಿವಂತ.
+I'm safe. ನಾನು ಸುರಕ್ಷಿತ.
+I'm sick. ನಾನು ಅನಾರೋಗ್ಯದಿಂದ ಬಳಲುತ್ತಿದ್ದೇನೆ.
+I'm thin. ನಾನು ತೆಳ್ಳಗಿದ್ದೇನೆ.
+I'm tidy. ನಾನು ಅಚ್ಚುಕಟ್ಟಾಗಿರುತ್ತೇನೆ.
+I'm warm. ನಾನು ಬೆಚ್ಚಗಿರುತ್ತೇನೆ.
+I'm weak. ನಾನು ಶಕ್ತಿಹೀನ.
+I'm wise. ನಾನು ಬುದ್ಧಿವಂತ.
+I've won. ನಾನು ಗೆದ್ದಿದ್ದೇನೆ.
+It helps. ಇದು ಸಹಾಯ ಮಾಡುತ್ತದೆ.
+It hurts. ಇದು ನೋವುಂಟು ಮಾಡುತ್ತದೆ.
+It works. ಇದು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.
+It's Tom. ಇದು ಟಾಮ್.
+It's fun. ಇದು ಖುಷಿಯಾಗಿದೆ.
+It's his. ಅದು ಅವನದು.
+It's new. ಇದು ಹೊಸದು.
+It's odd. ಇದು ಬೆಸ.
+It's old. ಇದು ಹಳೆಯದು.
+It's red. ಇದು ಕೆಂಪು.
+It's sad. ಇದು ದುಃಖಕರವಾಗಿದೆ.
+Keep out. ಹೊರಗಿಡಿ.
+Keep out. ಹೊರಗಿಡಿ.
+Kiss Tom. ಕಿಸ್ ಟಾಮ್.
+Kiss Tom. ಕಿಸ್ ಟಾಮ್.
+Kiss Tom. ಕಿಸ್ ಟಾಮ್.
+Leave it. ಬಿಟ್ಟುಬಿಡು.
+Leave me. ನನ್ನನ್ನು ಬಿಟ್ಟುಬಿಡು.
+Leave us. ನಮ್ಮನ್ನು ಬಿಡಿ.
+Let's go. ಹೋಗೋಣ.
+Let's go. ಹೋಗೋಣ.
+Look out. ಗಮನಿಸಿ.
+Marry me. ನನ್ನನ್ನು ಮದುವೆಯಾಗು.
+May I go. ನಾನು ಹೋಗಬಹುದೇ.
+Save Tom. ಟಾಮ್ ಉಳಿಸಿ.
+She came. ಅವಳು ಬಂದಳು.
+She died. ಅವಳು ಸತ್ತಳು.
+She runs. ಅವಳು ಓಡುತ್ತಾಳೆ.
+Sit down. ಕುಳಿತುಕೊ.
+Sit down. ಕುಳಿತುಕೊ.
+Sit here. ಇಲ್ಲಿ ಕುಳಿತುಕೊಳ್ಳಿ.
+Speak up. ಮಾತನಾಡಿ.
+Speak up. ಮಾತನಾಡಿ.
+Speak up. ಮಾತನಾಡಿ.
+Stand by. ನಿಂತುಕೊಳ್ಳಿ.
+Stand by. ನಿಂತುಕೊಳ್ಳಿ.
+Stand up. ಎದ್ದು ನಿಲ್ಲು.
+Stand up. ಎದ್ದು ನಿಲ್ಲು.
+Stay put. ಇರಿ.
+Stop Tom. ಟಾಮ್ ನಿಲ್ಲಿಸಿ.
+Take Tom. ಟಾಮ್ ತೆಗೆದುಕೊಳ್ಳಿ.
+Tell Tom. ಟಾಮ್‌ಗೆ ಹೇಳಿ.
+Terrific. ಭಯಂಕರ.
+Terrific. ಭಯಂಕರ.
+They won. ಅವರು ಗೆದ್ದರು.
+Tom came. ಟಾಮ್ ಬಂದರು.
+Tom died. ಟಾಮ್ ನಿಧನರಾದರು.
+Tom fell. ಟಾಮ್ ಬಿದ್ದನು.
+Tom knew. ಟಾಮ್ಗೆ ತಿಳಿದಿತ್ತು.
+Tom knew. ಟಾಮ್ಗೆ ತಿಳಿದಿತ್ತು.
+Tom left. ಟಾಮ್ ಹೊರಟುಹೋದ.
+Tom lied. ಟಾಮ್ ಸುಳ್ಳು ಹೇಳಿದ.
+Tom lies. ಟಾಮ್ ಸುಳ್ಳು.
+Tom lost. ಟಾಮ್ ಸೋತರು.
+Tom paid. ಟಾಮ್ ಪಾವತಿಸಿದರು.
+Tom quit. ಟಾಮ್ ತ್ಯಜಿಸಿದರು.
+Tom swam. ಟಾಮ್ ಈಜುತ್ತಿದ್ದ.
+Tom wept. ಟಾಮ್ ಕಣ್ಣೀರಿಟ್ಟ.
+Tom's up. ಟಾಮ್ ಅಪ್.
+Too late. ತುಂಬಾ ತಡ.
+Trust me. ನನ್ನನ್ನು ನಂಬು.
+Try hard. ಬಹಳ ಪ್ರಯತ್ನಿಸು.
+Try some. ಕೆಲವು ಪ್ರಯತ್ನಿಸಿ.
+Try some. ಕೆಲವು ಪ್ರಯತ್ನಿಸಿ.
+Try some. ಕೆಲವು ಪ್ರಯತ್ನಿಸಿ.
+Try this. ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ.
+Try this. ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ.
+Try this. ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ.
+Use this. ಇದನ್ನು ಬಳಸು.
+Warn Tom. ಟಾಮ್ ಅನ್ನು ಎಚ್ಚರಿಸಿ.
+Warn Tom. ಟಾಮ್ ಅನ್ನು ಎಚ್ಚರಿಸಿ.
+Warn Tom. ಟಾಮ್ ಅನ್ನು ಎಚ್ಚರಿಸಿ.
+Warn Tom. ಟಾಮ್ ಅನ್ನು ಎಚ್ಚರಿಸಿ.
+Watch me. ನನ್ನನ್ನು ನೋಡು.
+Watch me. ನನ್ನನ್ನು ನೋಡು.
+Watch me. ನನ್ನನ್ನು ನೋಡು.
+Watch us. ನಮ್ಮನ್ನು ವೀಕ್ಷಿಸಿ.
+Watch us. ನಮ್ಮನ್ನು ವೀಕ್ಷಿಸಿ.
+We agree. ನಾವು ಒಪ್ಪುತ್ತೇವೆ.
+We tried. ನಾವು ಪ್ರಯತ್ನಿಸಿದ್ದೇವೆ.
+We'll go. ನಾವು ಹೋಗುತ್ತೇವೆ.
+We're OK. ನಾವು ಸರಿ.
+What for. ಏನು.
+What fun. ಏನ್ ಮಜಾ.
+Who am I. ನಾನು ಯಾರು.
+Who came. ಯಾರು ಬಂದರು.
+Who died. ಯಾರು ಸತ್ತರು.
+Who fell. ಯಾರು ಬಿದ್ದರು.
+Who fell. ಯಾರು ಬಿದ್ದರು.
+Leave town. ಪಟ್ಟಣವನ್ನು ಬಿಡಿ.
+Leave town. ಪಟ್ಟಣವನ್ನು ಬಿಡಿ.
+Let Tom go. ಟಾಮ್ ಹೋಗಲಿ.
+Let Tom in. ಟಾಮ್ ಒಳಗೆ ಹೋಗಲಿ.
+Let him go. ಅವನು ಹೋಗಲಿ.
+Let him go. ಅವನು ಹೋಗಲಿ.
+Let him in. ಅವನನ್ನು ಒಳಗೆ ಬಿಡಿ.
+Let him in. ಅವನನ್ನು ಒಳಗೆ ಬಿಡಿ.
+Let him in. ಅವನನ್ನು ಒಳಗೆ ಬಿಡಿ.
+Let him in. ಅವನನ್ನು ಒಳಗೆ ಬಿಡಿ.
+Let him in. ಅವನನ್ನು ಒಳಗೆ ಬಿಡಿ.
+Let me out. ಹೊರಹೊಗಲು ಬಿಡು.
+Let me out. ಹೊರಹೊಗಲು ಬಿಡು.
+Let me pay. ನಾನು ಪಾವತಿಸಲಿ.
+Let me see. ನೋಡೋಣ.
+Let me see. ನೋಡೋಣ.
+Let me see. ನೋಡೋಣ.
+Let's chat. ಚಾಟ್ ಮಾಡೋಣ.
+Let's chat. ಚಾಟ್ ಮಾಡೋಣ.
+Let's kiss. ಕಿಸ್ ಮಾಡೋಣ.
+Let's play. ಆಟ ಆಡೋಣ ಬಾ.
+Let's quit. ಬಿಡೋಣ.
+Let's quit. ಬಿಡೋಣ.
+Let's sing. ಹಾಡೋಣ.
+Let's swim. ಈಜೋಣ.
+Let's talk. ನಾವು ಮಾತನಡೊಣ.
+Let's vote. ಮತ ಚಲಾಯಿಸೋಣ.
+Let's walk. ನಡೆಯೋಣ.
+Let's work. ಕೆಲಸ ಮಾಡೋಣ.
+Lift it up. ಅದನ್ನು ಮೇಲಕ್ಕೆತ್ತಿ.
+Look again. ಮತ್ತೆ ನೋಡಿ.
+Look again. ಮತ್ತೆ ನೋಡಿ.
+Look again. ಮತ್ತೆ ನೋಡಿ.
+Look again. ಮತ್ತೆ ನೋಡಿ.
+Look ahead. ಮುಂದೆ ನೋಡು.
+Look ahead. ಮುಂದೆ ನೋಡು.
+Look ahead. ಮುಂದೆ ನೋಡು.
+Look ahead. ಮುಂದೆ ನೋಡು.
+Look at it. ಇದರ ಕಡೆ ನೋಡು.
+Look at it. ಇದರ ಕಡೆ ನೋಡು.
+Look at it. ಇದರ ಕಡೆ ನೋಡು.
+Look at me. ನನ್ನನು ನೋಡು.
+Look at us. ನಮ್ಮನ್ನು ನೋಡಿ.
+Look at us. ನಮ್ಮನ್ನು ನೋಡಿ.
+Look it up. ಅದನ್ನು ನೋಡಿ.
+Look it up. ಅದನ್ನು ನೋಡಿ.
+Look there. ಅಲ್ಲಿ ನೋಡು.
+Love lasts. ಪ್ರೀತಿ ಇರುತ್ತದೆ.
+Mama cried. ಅಮ್ಮ ಅಳುತ್ತಾಳೆ.
+No comment. ಏನನ್ನೂ ಹೇಳುವುದಿಲ್ಲ.
+No kidding. ತಮಾಷೆ ಮಾಡಬೇಡಿ.
+No problem. ಯಾವ ತೊಂದರೆಯಿಲ್ಲ.
+No problem. ಯಾವ ತೊಂದರೆಯಿಲ್ಲ.
+No problem. ಯಾವ ತೊಂದರೆಯಿಲ್ಲ.
+Please sit. ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ.
+Please sit. ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ.
+Please sit. ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ.
+Quiet down. ಶಾಂತವಾಗು.
+Replace it. ಅದನ್ನು ಬದಲಾಯಿಸು.
+Say cheese. ಚೀಸ್ ಹೇಳಿ.
+Say cheese. ಚೀಸ್ ಹೇಳಿ.
+Say cheese. ಚೀಸ್ ಹೇಳಿ.
+Say cheese. ಚೀಸ್ ಹೇಳಿ.
+Say cheese. ಚೀಸ್ ಹೇಳಿ.
+Say please. ದಯವಿಟ್ಟು ಹೇಳಿ.
+She is old. ಅವಳು ಮುದುಕಿ.
+She smiled. ಅವಳು ಮುಗುಳ್ನಕ್ಕು.
+She's busy. ಅವಳು ಕಾರ್ಯನಿರತವಾಗಿದೆ.
+She's nice. ಅವಳು ಒಳ್ಳೆಯವಳು.
+Sing along. ಜೊತೆಯಲಿ ಹಾಡು.
+Smell this. ಇದನ್ನು ವಾಸನೆ ಮಾಡಿ.
+Smell this. ಇದನ್ನು ವಾಸನೆ ಮಾಡಿ.
+Smell this. ಇದನ್ನು ವಾಸನೆ ಮಾಡಿ.
+Smell this. ಇದನ್ನು ವಾಸನೆ ಮಾಡಿ.
+Smell this. ಇದನ್ನು ವಾಸನೆ ಮಾಡಿ.
+Stand back. ಹಿಂದೆ ನಿಂತು.
+Start here. ಇಲ್ಲಿ ಪ್ರಾರಂಭಿಸಿ.
+Start over. ಆರಂಭಿಸು.
+Stay alert. ಎಚ್ಚರವಾಗಿರಿ.
